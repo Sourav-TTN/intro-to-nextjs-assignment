@@ -7,10 +7,8 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body className="antialiased min-h-screen flex flex-col p-2">
-        <Header />
         <Main />
         <NextScript />
-        <Footer />
       </body>
     </Html>
   );
